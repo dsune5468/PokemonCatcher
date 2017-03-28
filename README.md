@@ -7,4 +7,7 @@
 </p>
 
 <h3>ScreenShots</h3>
-<img src= 
+<img src="https://github.com/dsune5468/PokemonCatcher/blob/master/scr.png" width="200px">
+
+<h3>Resources</h3>
+<a href="https://www.python.org/downloads/"> Python Download</a>
